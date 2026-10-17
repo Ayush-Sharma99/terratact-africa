@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "deep-research": {
+      "source": "ramit-mitra/deep-research-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "9e22027fe9857403d9bbb62b58bbf1552afd525dbf24483a627ab25fe77c0212"
+    },
+    "gravitas": {
+      "source": "udaysharmadev/Gravitas",
+      "sourceType": "github",
+      "skillPath": "skills/gravitas/SKILL.md",
+      "computedHash": "1ef9a8048a626aafe7c87f74cefaf030e71cff6231abad5e917cc5d9cd1fdefb"
+    }
+  }
+}
